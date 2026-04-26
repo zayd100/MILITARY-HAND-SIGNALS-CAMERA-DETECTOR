@@ -1,4 +1,4 @@
-# 🪖 Military Hand Signal Detector
+# Military Hand Signal Detector
 
 A real-time AI-powered military hand signal detection system using your webcam. Built with MediaPipe, OpenCV, and Scikit-learn. Detects tactical hand signals and announces them out loud using text-to-speech.
 
